@@ -4,7 +4,7 @@ There are three types of recommender systems.
 
 #### Demographic filtering
 
-This system recommends movies to a user based on the movie's general popularoty among the audience.
+This system recommends movies to a user based on the movie's general popularity among the audience.
 
 #### Content based reommender
 
